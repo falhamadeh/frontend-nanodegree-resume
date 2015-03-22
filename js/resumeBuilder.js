@@ -1,1 +1,1 @@
-$("#main").append([Fatimah]);
+$("#main").append("Fatimah");
